@@ -32,3 +32,29 @@ Santiago finds a job at a struggling crystal shop. He starts by cleaning dusty c
 
 This part of the story highlights Santiago’s courage, resilience, and the wisdom he gains from the people he meets. Each challenge brings him closer to understanding his Personal Legend and prepares him for the adventures that lie ahead.
 > *This summary covers Santiago’s journey from his life as a shepherd to his time working at the crystal shop, highlighting the key lessons and turning points that shape his adventure.*
+
+---
+
+
+## CHAPTER 2 — The Oasis and the Englishman
+
+### The Englishman and Alchemy
+After leaving the crystal merchant, Santiago joins a caravan that crosses the desert. Along the way he befriends an Englishman who is studying alchemy. The Englishman speaks of the Philosopher’s Stone and the Elixir of Life — legendary substances that can transmute metals and grant long life. Santiago learns from him, but he also discovers an important truth: some knowledge comes from books, while deeper understanding often comes from observing the world and listening to omens.
+
+---
+
+### The Oasis
+The caravan travels through dangerous territory under the threat of tribal wars, and finally reaches a great oasis — a vast settlement of tents, wells, and palm trees that functions as a neutral meeting place in the desert conflict.
+
+---
+
+### Fatima — Love and the Language of the World
+At the oasis, Santiago meets Fatima, a young desert woman. He falls in love at first sight. Fatima becomes more than a romantic interest; she embodies the "Language of the World" for Santiago. He realizes that love itself is a force that connects people to their Personal Legends. Though torn between his quest for treasure and his feelings for Fatima, Santiago learns that true love does not prevent one from following their destiny — it supports it.
+
+---
+
+### The Vision and Responsibility
+One evening, while watching the desert, Santiago experiences a powerful vision: he sees an invading army attacking the oasis. He understands this as an omen and, though afraid, decides to act. Using what he has learned about listening to the Soul of the World, Santiago warns the tribal chieftains about the coming attack. This moment marks a turning point: Santiago steps into responsibility and recognizes the role he must play in the unfolding destiny around him.
+
+---
+
