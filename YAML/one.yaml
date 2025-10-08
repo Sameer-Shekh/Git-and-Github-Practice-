@@ -1,0 +1,108 @@
+# INLINE COMMENTS
+chai_type: masala_chai
+temperature: hot
+servings: 2
+brewing_time: 5
+
+
+chai_recipe:
+  - ingredient: water
+    quantity: 2 cups
+  - ingredient: milk
+    quantity: 1 cup
+  - ingredient: black tea leaves
+    quantity: 2 tsp
+  - ingredient: sugar
+    quantity: 2 tsp
+  - ingredient: crushed spices (cardamom, cinnamon, ginger)
+    quantity: 1 tsp
+    base: black tea
+    milk: whole milk
+    sweetener: sugar
+
+chai_name: masala_chai # string
+descirption: "chia with cardimom,ginger"
+tagline: 'the best that ever'
+
+brewing_instruction: |
+  boil_water
+  add boil water 
+  add milk
+
+brewing_instruction_two: >
+  boil_water
+  add boil water 
+  add milk
+
+cups_per_day: 2
+cups_per_day_two: 4.5
+
+#same
+isHot: true
+addSuger: yes
+addSalt: no
+instant_on: on
+instant: off
+
+# null
+sweetener: null
+alternative: ~
+
+# timestamp
+morning_brew: 2025-01-15
+local_time: 2025-01-15 08:20:01
+
+
+# LIST 
+spices: 
+  - cardamom
+  - ginger
+  - true
+  - 299
+
+# spices: [cardamom,ginger,cloves]
+
+steeping_tiem: [1,2,3]
+
+
+chai_category: 
+  - name: Traditional
+    varities:
+      - masala_chai
+      - ginger_chai
+      - cardimom_chai
+  - name: Modern
+    varities:
+      - chocolate_chai
+      - vanilla_chai
+
+
+# list of dictinary
+chai_menu: 
+  - name: masala
+    price: 30
+    size: regular
+
+  - name: ginger
+    price: 400
+    size: medium
+
+
+default_chai_base: &default_base
+  tea: black tea
+  water: 200ml
+  brewing_time: 5
+
+
+morning_chai:
+  <<: *default_base
+  milk: 100ml
+
+
+zipcode: !!str 12345
+count: !!int "123"
+
+unique_set: !!set
+  ? cardimom
+  ? ginger
+  ? cloves
