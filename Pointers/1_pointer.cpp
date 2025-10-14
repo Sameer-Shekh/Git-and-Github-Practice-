@@ -3,18 +3,18 @@ using namespace std;
 
 void passByValue(int x, int y)
 {
-    y = 20;                                                          
+    y = 20;
     cout << "Inside passByValue - x: " << x << ", y: " << y << endl;
 }
 
 void passByReference(int *p)
 {
-    *p = 20; 
+    *p = 20;
 }
 
 void passByReferenceAlias(int &ref)
 {
-    ref = 20; 
+    ref = 20;
 }
 
 int main()
@@ -44,7 +44,7 @@ int main()
 
     cout << "----------------------------------------------------------------------------------------------------------------------------------" << endl;
 
-    // PASS BY VALUE 
+    // PASS BY VALUE
     cout << "\nPass By Value" << endl;
     int x = 5;
     int y = x; // Pass by value, y gets a copy of x
